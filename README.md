@@ -1,7 +1,5 @@
 # Welcome to my GitHub Page
 
-![Your Profile Picture](images/Silviu.png)
-
 Hi there! I'm Silviu. I am an aspiring web developer looking to move into the field. Despite having no prior experience, I am eager to learn and grow my skills through self-teaching and online courses. I am passionate about using technology to create beautiful, functional, and impactful solutions and am excited to take on new challenges as I move forward in my journey as a web developer.
 
 ## Projects
@@ -18,7 +16,12 @@ Here are some of my notable projects:
 ## Languages and tools:
 
 <picture>
+ <img alt="CSS" src="images/css.png">
+ <img alt="HTML" src="images/html.png">
  <img alt="JavaScript" src="images/js.png">
+ <img alt="React" src="images/react.png">
+ <img alt="Node" src="images/node.png">
+ <img alt="Git" src="images/git.png">
 </picture>
 
 Feel free to reach out to me via:
