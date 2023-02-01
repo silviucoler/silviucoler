@@ -17,8 +17,8 @@ Here are some of my notable projects:
 
 <picture><img alt="CSS" src="images/css.png"></picture><picture><img alt="HTML" src="images/html.png"></picture><picture><img alt="JavaScript" src="images/js.png"></picture><picture><img alt="React" src="images/react.png"></picture><picture><img alt="Node" src="images/node-js.png"></picture><picture><img alt="Git" src="images/git.png"></picture>
 
-#### Contact me:
+## Contact me:
 
 [Email](mailto:silviu.coler@hotmail.co.uk)
 
-Thank you for visiting my page!
+##Thank you for visiting my page!
