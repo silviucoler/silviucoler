@@ -21,4 +21,4 @@ Here are some of my notable projects:
 
 [Email](mailto:silviu.coler@hotmail.co.uk)
 
-##Thank you for visiting my page!
+## Thank you for visiting my page!
