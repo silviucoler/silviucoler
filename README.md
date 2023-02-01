@@ -19,7 +19,6 @@ Here are some of my notable projects:
 
 #### Contact me:
 
-silviu.coler@hotmail.co.uk
-[Email](https://www.linkedin.com/in/silviucoler/)
+[Email](mailto:silviu.coler@hotmail.co.uk)
 
 Thank you for visiting my page!
