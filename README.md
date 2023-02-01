@@ -15,14 +15,7 @@ Here are some of my notable projects:
 
 ## Languages and tools:
 
-<picture>
- <img alt="CSS" src="images/css.png">
- <img alt="HTML" src="images/html.png">
- <img alt="JavaScript" src="images/js.png">
- <img alt="React" src="images/react.png">
- <img alt="Node" src="images/node.png">
- <img alt="Git" src="images/git.png">
-</picture>
+<picture><img alt="CSS" src="images/css.png"></picture><picture><img alt="HTML" src="images/html.png"></picture><picture><img alt="JavaScript" src="images/js.png"></picture><picture><img alt="React" src="images/react.png"></picture><picture><img alt="Node" src="images/node.png"></picture><picture><img alt="Git" src="images/git.png"></picture>
 
 Feel free to reach out to me via:
 
