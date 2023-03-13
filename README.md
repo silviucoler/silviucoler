@@ -4,14 +4,14 @@ Hi there! I'm Silviu. I am an aspiring software developer looking to move into t
 
 ## Projects
 
-Here are some of my notable projects:
+Here are some of my projects:
 
-- **Project 1**: [Personal Site](https://github.com/silviucoler/finalCapstone)
-  - The site is designed to give visitors an insight into what makes me unique and what I enjoy doing in my free time. The website was developed using HTML, CSS, and Javascript with JSON and DOM manipulation to create an interactive and engaging user experience. These technologies enabled me to add dynamic features and enhance the overall look and functionality of the site.
-- **Project 2**: [Hangman Game](https://github.com/silviucoler/Hangman-Game)
+- **Project 1**: [Hangman Game](https://github.com/silviucoler/Hangman-Game)
   - This is a Hangman game made with React. The game randomly selects a word from a predefined list of words, and the player tries to guess the word by suggesting letters. The player has a limited number of attempts to guess the word, and each incorrect guess results in a part of a hangman being drawn. If the player runs out of attempts, the game is over, and the word is revealed. If the player guesses the word correctly, the player wins the game.
-- **Project 3**: [Project Managemnt App](https://github.com/silviucoler/Project-Management-App)
+- **Project 2**: [Project Managemnt App](https://github.com/silviucoler/Project-Management-App)
   - This project is a web application built using React, React Bootstrap and Express. It fetches data from APIs hosted on a local server, and allows the user to add new projects, as well as edit or delete previous projects.
+- **Project 3**: [Personal Site](https://github.com/silviucoler/Personal-Site)
+  - The site is designed to give visitors an insight into what makes me unique and what I enjoy doing in my free time. The website was developed using HTML, CSS, and Javascript with JSON and DOM manipulation to create an interactive and engaging user experience. These technologies enabled me to add dynamic features and enhance the overall look and functionality of the site.
 
 ## Languages and tools:
 
